@@ -1,2 +1,2 @@
 # Message-Scheduler
-This is to schedule a message on whatsapp.
+A GUI based application used for scheduling the text messages on WhatsApp.
