@@ -48,9 +48,9 @@ This project allows you to schedule WhatsApp messages using Python libraries and
     ```
 2. **Use the GUI**
 
-    - Enter the recipient's phone number (in international format, e.g., +1234567890). 📞
+    - Enter the recipient's phone number. 📞
     - Enter the message you want to send. 💬
-    - Select the date and time for scheduling the message. 📆
+    - Select the time for scheduling the message. 📆
     - Click the "Schedule" button. ✅
 <br>
 
@@ -68,7 +68,7 @@ This project allows you to schedule WhatsApp messages using Python libraries and
 
 - pywhatkit for making WhatsApp automation easy. 🤖
 - pywhatkit for making WhatsApp automation easy. 🤖
-- GUI for interactive user experience. 🤝
+- GUI for interactive user experience. 🖐️
 
   <br>
 
