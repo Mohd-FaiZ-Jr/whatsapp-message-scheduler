@@ -1,6 +1,6 @@
 # WhatsApp Message Scheduler 📅
 
-This project allows you to schedule WhatsApp messages using Python libraries and provides a GUI interface built with Tkinter. The scheduler leverages the `pywhatkit` library to send messages at specified times. 📱
+This project allows you to schedule WhatsApp messages using Python and provides a GUI interface built with Tkinter. The scheduler leverages the `pywhatkit` library to send messages at specified times. 📱
 
 <br>
 
@@ -67,7 +67,7 @@ This project allows you to schedule WhatsApp messages using Python libraries and
 ## Acknowledgements🙏
 
 - pywhatkit for making WhatsApp automation easy. 🤖
-- pywhatkit for making WhatsApp automation easy. 🤖
+- pyautogui for spam feature. ⚠️
 - GUI for interactive user experience. 🖐️
 
   <br>
@@ -77,5 +77,5 @@ This project allows you to schedule WhatsApp messages using Python libraries and
 <li>Requires good connection of internet. 🌐</li>
 <li>The user doesn’t get an option to schedule at a particular date. 📅</li> 
 <li>Before the scheduled time, the screen must need to be woken up. 🖵</li> 
-<li>User cannot send schedule message for groups.</li> 
-<li>The user cannot message a number other than Indian country code.</li> 
+<li>User cannot send schedule message for groups.  👨‍👨‍👦‍👦</li>
+<li>The user cannot message a number other than Indian country code. 🚫</li> 
