@@ -26,7 +26,7 @@ This project allows you to schedule WhatsApp messages using Python libraries and
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/whatsapp-message-scheduler.git
+    git clone https://github.com/Mohd-FaiZ-Jr/whatsapp-message-scheduler.git
     cd whatsapp-message-scheduler
     ```
 
