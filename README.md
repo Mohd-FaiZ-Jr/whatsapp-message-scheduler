@@ -17,6 +17,7 @@ This project allows you to schedule WhatsApp messages using Python and provides 
 
 - Python 3.x 🐍
 - `pywhatkit` library 📚
+- `pyautogui` library 📚
 - `tkinter` library (included with Python) 🧰
 
 <br>
